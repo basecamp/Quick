@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "CwlCatchException",
-        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
+        "repositoryURL": "https://github.com/basecamp/CwlCatchException",
         "state": {
           "branch": null,
           "revision": "682841464136f8c66e04afe5dbd01ab51a3a56f2",
@@ -12,11 +12,11 @@
       },
       {
         "package": "CwlPreconditionTesting",
-        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
+        "repositoryURL": "https://github.com/basecamp/CwlPreconditionTesting",
         "state": {
           "branch": null,
-          "revision": "02b7a39a99c4da27abe03cab2053a9034379639f",
-          "version": "2.0.0"
+          "revision": "04d17abaaad3ad70160f315b742fea7268fb5e9e",
+          "version": "2.0.1"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/basecamp/Nimble.git",
         "state": {
           "branch": null,
-          "revision": "af1730dde4e6c0d45bf01b99f8a41713ce536790",
-          "version": "9.2.0"
+          "revision": "bb48b5c2cf07fdb972356b7ff5b7f2c9fd7e21e1",
+          "version": "9.2.1"
         }
       }
     ]
